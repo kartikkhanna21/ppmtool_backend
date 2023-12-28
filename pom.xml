@@ -150,6 +150,10 @@
 	</repositories>
 	<pluginRepositories>
 		<pluginRepository>
+			<id>mavencentral</id>
+			<url>https://repo.maven.apache.org/maven2</url>
+		</pluginRepository>
+		<pluginRepository>
 			<id>snapshots</id>
 			<name>Nexus Local</name>
 			<url>https://repo.spring.io/release</url>
